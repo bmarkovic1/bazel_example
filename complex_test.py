@@ -1,7 +1,7 @@
 import unittest
 from math import sqrt 
 
-from complex import Complex
+from complex_lib import Complex
 
 class Tests(unittest.TestCase):
 
